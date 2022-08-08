@@ -15,6 +15,22 @@
 </tr>
 
 <tr>
+<td>
+
+| Target Classes |
+| :------------: |
+|     benign     |
+|      dos       |
+|      ddos      |
+|    portscan    |
+|  brute_force   |
+|   web_attack   |
+|      bot       |
+
+</td>
+</tr>
+
+<tr>
 <th>Feature Definition</th>
 <td>
 
