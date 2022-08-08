@@ -1,7 +1,7 @@
 ## Network Intrusion Detection With Machine Learning
 
 <table>
-<th>Data Dictionary</th>
+<tr><b>Data Dictionary</b></tr>
 <tr>
 <th>General Information</th>
 <td>
