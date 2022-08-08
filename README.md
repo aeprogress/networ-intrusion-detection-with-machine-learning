@@ -2,6 +2,16 @@
 
 <table>
 <tr><th colspan="2"><b><h3>Data Dictionary</h3></b></th></tr>
+
+<tr>
+<th>Data Source</th>
+<td>
+
+(https://www.unb.ca/cic/datasets/ids-2017.html)
+
+</td>
+</tr>
+
 <tr>
 <th>General Information</th>
 <td>
