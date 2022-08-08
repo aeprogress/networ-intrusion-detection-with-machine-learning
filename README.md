@@ -7,16 +7,9 @@
 <th>General Information</th>
 <td>
 
-| Number of Chosen Features |
-| :-----------------------: |
-|            40             |
-
-</td>
-<td>
-
-| Number of Entries |
-| :---------------: |
-|      820722       |
+| Number of Chosen Features | Number of Entries |
+| :-----------------------: | :---------------: |
+|            40             |      820722       |
 
 </td>
 </tr>
