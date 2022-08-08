@@ -17,16 +17,9 @@
 <tr>
 <th>Target Classes</th>
 <td>
-
-|             |
-| :---------: |
-|   benign    |
-|     dos     |
-|    ddos     |
-|  portscan   |
-| brute_force |
-| web_attack  |
-|     bot     |
+|                                                                                |
+| :---------: |:---------: |:---------: |:---------: |:---------: |:---------: |:---------: |
+| benign |dos |ddos |portscan |brute_force |web_attack |bot |
 
 </td>
 </tr>
