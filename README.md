@@ -3,20 +3,27 @@
 ### Data Dictionary
 
 <table>
-<tr><td>
+<tr>
+<th>General Information</th>
+<td>
 
 | Number of Chosen Features |
 | :-----------------------: |
 |            40             |
 
-</td><td>
+    </td>
+    <td>
 
 | Number of Entries |
 | :---------------: |
 |      820722       |
 
-</td></tr> 
-<tr><td></table>
+</td>
+</tr>
+
+<tr>
+<th>Feature Definition</th>
+<td>
 
 | Feature                 | Description                                                          |
 | :---------------------- | :------------------------------------------------------------------- |
@@ -61,4 +68,6 @@
 | idle max                | Maximum time ow idle before becoming active                          |
 | idle min                | Minimum time ow idle before becoming active                          |
 
-</tr></td></table>
+</tr>
+</td>
+</table>
