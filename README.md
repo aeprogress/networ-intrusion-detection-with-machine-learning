@@ -115,14 +115,22 @@ https://www.unb.ca/cic/datasets/ids-2017.html
             |    |   main.py
             |    |
             |    └───flowmeter/
-            |        |
+            |
             |
             |
             └───server/
+                |   api.py
+                |   Pipfile
+                |   pipfile.lock
+                |   Procfile
+                |   requirements.txt
                 |
+                └───bin/
+                |   |   start_server
                 |
-                |
-                |
+                └───classifier/
+                |   |   model.py
+                |   |
 ```
 
 ## Goals
