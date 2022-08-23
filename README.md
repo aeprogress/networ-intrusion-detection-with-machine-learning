@@ -124,3 +124,13 @@ https://www.unb.ca/cic/datasets/ids-2017.html
                 |
                 |
 ```
+
+## Goals
+
+- Analise the Canadian Institute Cybersecurity Intrusion Detection Dataset
+- Train Machine Learning Models to detect network intrusion by classifying network packets
+- Develop an application that enables users to classify captured network packets
+
+## Conclusion
+
+Traditional IDSs fail in the event of previously unseen attacks such as zero-day attacks (a software vulnerability unknown to its vendors yet). Therefore, the application of the machine learning approach as an engine for attack detection can be used as complementary to the traditional system.
