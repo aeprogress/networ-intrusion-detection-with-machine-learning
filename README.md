@@ -97,7 +97,9 @@ https://www.unb.ca/cic/datasets/ids-2017.html
 ./
 |   .gitignore
 │   README.md
-│
+|   auto_EDA_report.html
+│   presentation.pptx
+|
 └───data/
 │   │   intrusion_detection_sample_ata.csv
 │
