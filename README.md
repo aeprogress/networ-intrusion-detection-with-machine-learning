@@ -90,3 +90,37 @@ https://www.unb.ca/cic/datasets/ids-2017.html
 </tr>
 </td>
 </table>
+
+## Content
+
+```bash
+./
+|   .gitignore
+│   README.md
+│
+└───data/
+│   │   intrusion_detection_sample_ata.csv
+│
+└───src/
+    |   preprocess_eda.ipynb
+    │   explore_models.ipynb.ipynb
+    |   train_model.ipynb
+    |
+    └───ids-app/
+            |
+            └───client/
+            |    |   dashboard.py
+            |    |   feature_extractor.py
+            |    |   flow.py
+            |    |   main.py
+            |    |
+            |    └───flowmeter/
+            |        |
+            |
+            |
+            └───server/
+                |
+                |
+                |
+                |
+```
