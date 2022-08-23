@@ -22,9 +22,9 @@ https://www.unb.ca/cic/datasets/ids-2017.html
 <th>General Information</th>
 <td>
 
-| Number of Chosen Features | Number of Entries |
-| :-----------------------: | :---------------: |
-|            40             |      820722       |
+| Number of Features | Number of Entries |
+| :----------------: | :---------------: |
+|         80         |      928391       |
 
 </td>
 </tr>
