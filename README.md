@@ -1,10 +1,16 @@
 ## Network Intrusion Detection With Machine Learning
 
+Intrusion Detection System (IDS) software are used to detect malicious activities in a single computer or a network of computers. In order to detect an intrusion in network traffic, network packets are examined. Due to the lack of reliable test and validation datasets, anomaly-based intrusion detection approaches are suffering from consistent and accurate performance evolutions. Moreover, integrating machine learning techniques in this process can result in higher intrusion detection rates.
+
+### About the Dataset
+
+CICIDS2017 dataset contains benign and the most up-to-date common attacks, which resembles the true real-world data (PCAPs). It also includes the results of the network traffic analysis using CICFlowMeter with labeled flows based on the time stamp, source, and destination IPs, source and destination ports, protocols and attack (CSV files).
+
 <table>
 <tr><th colspan="2"><b><h3>Data Dictionary</h3></b></th></tr>
 
 <tr>
-<th>Data Source</th>
+<th>Dataset Source</th>
 <td>
 
 https://www.unb.ca/cic/datasets/ids-2017.html
